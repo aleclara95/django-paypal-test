@@ -127,7 +127,7 @@ MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 MEDIA_URL = '/media/'
 
 # Django PayPal
-PAYPAL_RECEIVER_EMAIL = 'aleclara95@gmail.com'
+PAYPAL_RECEIVER_EMAIL = 'sb-zdxvs3716824@business.example.com'
 
 PAYPAL_TEST = True
 
